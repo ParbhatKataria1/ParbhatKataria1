@@ -11,7 +11,7 @@
 - 🤝 I’m looking for help with<br>🌱 I’m currently REACT
 - 💬 Ask me about HTML, CSS, JS, MERN
 - ⚡ Fun fact
-- 😍 Projects link - https://github.com/ParbhatKataria1/ParbhatKataria1.github.io<br>
+- 😍 All my projects repo [here](https://github.com/ParbhatKataria1?tab=repositories)<br>
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1h1lan92QxkqGlsHdt9_KQ5UWXqLiyaer/view?usp=share_link)**
 - Visit My **[Portfolio](https://ParbhatKataria1.github.io)**
 
