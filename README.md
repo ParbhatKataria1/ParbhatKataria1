@@ -13,7 +13,7 @@
 - ⚡ Fun fact
 - 😍 All my projects repo [here](https://github.com/ParbhatKataria1?tab=repositories)<br>
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1h1lan92QxkqGlsHdt9_KQ5UWXqLiyaer/view?usp=share_link)**
-- Visit My **[Portfolio](https://parbhatkataria1.github.io)**
+- Visit My **[Portfolio](https://parbhatkataria1.github.io/)**
 
 
 ## 🌐 Socials:
