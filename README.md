@@ -6,10 +6,9 @@
 
 
 # 💫 About Me:
-- I am an aspirational Full Developer Web Developer from India
-- 🔭 I’m currently working on<br>👯 I’m looking to collaborate on
+- Full Stack Web Developer from India, 2.5 years of experience
 - 🤝 I’m looking for help with<br>🌱 I’m currently REACT
-- 💬 Ask me about HTML, CSS, JS, MERN
+- 💬 Ask me about HTML, CSS, JS, MERN, MySql, Docker, Kubernates, CI/CD,
 - ⚡ Fun fact
 - 😍 All my projects repo [here](https://github.com/ParbhatKataria1?tab=repositories)<br>
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1h1lan92QxkqGlsHdt9_KQ5UWXqLiyaer/view?usp=share_link)**
